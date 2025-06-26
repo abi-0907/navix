@@ -1,0 +1,148 @@
+<map name="image-map">
+    <area target="" alt="Admiralty" title="Admiralty" href="" coords="540,357,24" shape="circle">
+    <area target="" alt="Sembawang" title="Sembawang" href="" coords="607,355,25" shape="circle">
+    <area target="" alt="Canberra" title="Canberra" href="" coords="676,354,25" shape="circle">
+    <area target="" alt="Yishun" title="Yishun" href="" coords="749,377,26" shape="circle">
+    <area target="" alt="Khatib" title="Khatib" href="" coords="785,418,25" shape="circle">
+    <area target="" alt="Yio Chu Kang" title="Yio Chu Kang" href="" coords="794,476,25" shape="circle">
+    <area target="" alt="Ang Mo Kio" title="Ang Mo Kio" href="" coords="792,530,24" shape="circle">
+    <area target="" alt="Bishan" title="Bishan" href="" coords="760,567,830,600" shape="rect">
+    <area target="" alt="Braddell" title="Braddell" href="" coords="794,625,22" shape="circle">
+    <area target="" alt="Toa Payoh" title="Toa Payoh" href="" coords="792,673,22" shape="circle">
+    <area target="" alt="Novena" title="Novena" href="" coords="769,727,26" shape="circle">
+    <area target="" alt="Newton" title="Newton" href="" coords="703,757,777,796" shape="rect">
+    <area target="" alt="Orchard" title="Orchard" href="" coords="631,839,706,866" shape="rect">
+    <area target="" alt="Somerset" title="Somerset" href="" coords="713,902,27" shape="circle">
+    <area target="" alt="Dhoby Ghaut" title="Dhoby Ghaut" href="" coords="855,984,759,954" shape="rect">
+    <area target="" alt="City Hall" title="City Hall" href="" coords="943,1105,869,1078" shape="rect">
+    <area target="" alt="Raffles Place" title="Raffles Place" href="" coords="867,1126,934,1155" shape="rect">
+    <area target="" alt="Marina Bay" title="Marina Bay" href="" coords="879,1208,974,1235" shape="rect">
+    <area target="" alt="Marina South Pier" title="Marina South Pier" href="" coords="956,1262,25" shape="circle">
+    <area target="" alt="Jurong East" title="Jurong East" href="" coords="297,921,27" shape="circle">
+    <area target="" alt="Bukit Batok" title="Bukit Batok" href="" coords="295,815,29" shape="circle">
+    <area target="" alt="Bukit Gombak" title="Bukit Gombak" href="" coords="297,742,28" shape="circle">
+    <area target="" alt="Choa Chu Kang" title="Choa Chu Kang" href="" coords="298,651,28" shape="circle">
+    <area target="" alt="Yew Tee" title="Yew Tee" href="" coords="297,562,27" shape="circle">
+    <area target="" alt="Kranji" title="Kranji" href="" coords="298,472,28" shape="circle">
+    <area target="" alt="Marsiling" title="Marsiling" href="" coords="343,372,28" shape="circle">
+    <area target="" alt="Woodlands" title="Woodlands" href="" coords="427,333,497,363" shape="rect">
+    <area target="" alt="Woodlands North" title="Woodlands North" href="" coords="413,300,28" shape="circle">
+    <area target="" alt="Woodlands South" title="Woodlands South" href="" coords="496,385,20" shape="circle">
+    <area target="" alt="Springleaf" title="Springleaf" href="" coords="525,419,21" shape="circle">
+    <area target="" alt="Lentor" title="Lentor" href="" coords="555,452,20" shape="circle">
+    <area target="" alt="Mayflower" title="Mayflower" href="" coords="589,483,21" shape="circle">
+    <area target="" alt="Bright Hill" title="Bright Hill" href="" coords="622,518,22" shape="circle">
+    <area target="" alt="Upper Thomson" title="Upper Thomson" href="" coords="651,580,22" shape="circle">
+    <area target="" alt="Caldecott" title="Caldecott" href="" coords="616,618,683,646" shape="rect">
+    <area target="" alt="Stevens" title="Stevens" href="" coords="618,709,682,737" shape="rect">
+    <area target="" alt="Napier" title="Napier" href="" coords="649,768,19" shape="circle">
+    <area target="" alt="Orchard Boulevard" title="Orchard Boulevard" href="" coords="649,812,19" shape="circle">
+    <area target="" alt="Great World" title="Great World" href="" coords="649,899,23" shape="circle">
+    <area target="" alt="Havelock" title="Havelock" href="" coords="651,949,21" shape="circle">
+    <area target="" alt="Outram Park" title="Outram Park" href="" coords="657,1075,751,1106" shape="rect">
+    <area target="" alt="Maxwell" title="Maxwell" href="" coords="767,1122,21" shape="circle">
+    <area target="" alt="Shenton Way" title="Shenton Way" href="" coords="847,1200,23" shape="circle">
+    <area target="" alt="Gardens by the Bay" title="Gardens by the Bay" href="" coords="1134,1179,22" shape="circle">
+    <area target="" alt="Tanjong Rhu" title="Tanjong Rhu" href="" coords="1216,1098,20" shape="circle">
+    <area target="" alt="Katong Park" title="Katong Park" href="" coords="1244,1068,19" shape="circle">
+    <area target="" alt="Tanjong Katong" title="Tanjong Katong" href="" coords="1274,1034,21" shape="circle">
+    <area target="" alt="Marine Parade" title="Marine Parade" href="" coords="1306,1002,21" shape="circle">
+    <area target="" alt="Marine Terrace" title="Marine Terrace" href="" coords="1341,971,23" shape="circle">
+    <area target="" alt="Siglap" title="Siglap" href="" coords="1373,941,18" shape="circle">
+    <area target="" alt="Bayshore" title="Bayshore" href="" coords="1401,910,20" shape="circle">
+    <area target="" alt="Bedok South" title="Bedok South" href="" coords="1431,880,18" shape="circle">
+    <area target="" alt="Sungei Bedok" title="Sungei Bedok" href="" coords="1507,858,1437,830" shape="rect">
+    <area target="" alt="Tuas Link" title="Tuas Link" href="" coords="122,588,21" shape="circle">
+    <area target="" alt="Tuas West Road" title="Tuas West Road" href="" coords="124,632,19" shape="circle">
+    <area target="" alt="Tuas Crescent" title="Tuas Crescent" href="" coords="121,678,21" shape="circle">
+    <area target="" alt="Gul Circle" title="Gul Circle" href="" coords="121,723,22" shape="circle">
+    <area target="" alt="Joo Koon" title="Joo Koon" href="" coords="121,770,19" shape="circle">
+    <area target="" alt="Pioneer" title="Pioneer" href="" coords="123,816,20" shape="circle">
+    <area target="" alt="Boon Lay" title="Boon Lay" href="" coords="119,862,22" shape="circle">
+    <area target="" alt="Lakeside" title="Lakeside" href="" coords="176,919,22" shape="circle">
+    <area target="" alt="Chinese Garden" title="Chinese Garden" href="" coords="233,921,22" shape="circle">
+    <area target="" alt="Clementi" title="Clementi" href="" coords="375,916,23" shape="circle">
+    <area target="" alt="Dover" title="Dover" href="" coords="425,918,21" shape="circle">
+    <area target="" alt="Buona Vista" title="Buona Vista" href="" coords="453,929,514,903" shape="rect">
+    <area target="" alt="Commonwealth" title="Commonwealth" href="" coords="531,950,22" shape="circle">
+    <area target="" alt="Queenstown" title="Queenstown" href="" coords="568,981,20" shape="circle">
+    <area target="" alt="Redhill" title="Redhill" href="" coords="600,1019,22" shape="circle">
+    <area target="" alt="Tiong Bahru" title="Tiong Bahru" href="" coords="635,1056,23" shape="circle">
+    <area target="" alt="Tanjong Pagar" title="Tanjong Pagar" href="" coords="752,1168,23" shape="circle">
+    <area target="" alt="Bugis" title="Bugis" href="" coords="950,1017,1022,994" shape="rect">
+    <area target="" alt="Lavender" title="Lavender" href="" coords="1027,965,23" shape="circle">
+    <area target="" alt="Kallang" title="Kallang" href="" coords="1064,929,24" shape="circle">
+    <area target="" alt="Aljunied" title="Aljunied" href="" coords="1097,892,22" shape="circle">
+    <area target="" alt="Paya Lebar" title="Paya Lebar" href="" coords="1110,836,1179,864" shape="rect">
+    <area target="" alt="Eunos" title="Eunos" href="" coords="1198,801,25" shape="circle">
+    <area target="" alt="Kembangan" title="Kembangan" href="" coords="1241,749,23" shape="circle">
+    <area target="" alt="Bedok" title="Bedok" href="" coords="1320,708,23" shape="circle">
+    <area target="" alt="Tanah Merah" title="Tanah Merah" href="" coords="1393,696,1457,724" shape="rect">
+    <area target="" alt="Simei" title="Simei" href="" coords="1432,675,18" shape="circle">
+    <area target="" alt="Tampines" title="Tampines" href="" coords="1408,612,1492,654" shape="rect">
+    <area target="" alt="Pasir Ris" title="Pasir Ris" href="" coords="1431,581,25" shape="circle">
+    <area target="" alt="Expo" title="Expo" href="" coords="1536,752,1473,777" shape="rect">
+    <area target="" alt="Changi Airport" title="Changi Airport" href="" coords="1565,767,23" shape="circle">
+    <area target="" alt="Bukit Panjang" title="Bukit Panjang" href="" coords="395,489,436,536" shape="rect">
+    <area target="" alt="Cashew" title="Cashew" href="" coords="397,543,434,563" shape="rect">
+    <area target="" alt="Hillview" title="Hillview" href="" coords="397,568,434,589" shape="rect">
+    <area target="" alt="Hume" title="Hume" href="" coords="397,595,436,616" shape="rect">
+    <area target="" alt="Beauty World" title="Beauty World" href="" coords="398,621,436,642" shape="rect">
+    <area target="" alt="King Albert Park" title="King Albert Park" href="" coords="395,646,437,668" shape="rect">
+    <area target="" alt="Sixth Avenue" title="Sixth Avenue" href="" coords="395,674,439,695" shape="rect">
+    <area target="" alt="Tan Kah Kee" title="Tan Kah Kee" href="" coords="463,724,20" shape="circle">
+    <area target="" alt="Botanic Gardens" title="Botanic Gardens" href="" coords="545,725,28" shape="circle">
+    <area target="" alt="Little India" title="Little India" href="" coords="888,880,812,850" shape="rect">
+    <area target="" alt="Rochor" title="Rochor" href="" coords="897,915,22" shape="circle">
+    <area target="" alt="Promenade" title="Promenade" href="" coords="1041,1104,1118,1132" shape="rect">
+    <area target="" alt="Bayfront" title="Bayfront" href="" coords="979,1165,1049,1197" shape="rect">
+    <area target="" alt="Downtown" title="Downtown" href="" coords="921,1179,970,1205" shape="rect">
+    <area target="" alt="Telok Ayer" title="Telok Ayer" href="" coords="827,1127,864,1159" shape="rect">
+    <area target="" alt="Chinatown" title="Chinatown" href="" coords="716,1035,789,1062" shape="rect">
+    <area target="" alt="Fort Canning" title="Fort Canning" href="" coords="725,979,756,1003" shape="rect">
+    <area target="" alt="Bencoolen" title="Bencoolen" href="" coords="919,974,22" shape="circle">
+    <area target="" alt="Jalan Besar" title="Jalan Besar" href="" coords="959,937,22" shape="circle">
+    <area target="" alt="Bendemeer" title="Bendemeer" href="" coords="1013,886,20" shape="circle">
+    <area target="" alt="Geylang Bahru" title="Geylang Bahru" href="" coords="1049,850,21" shape="circle">
+    <area target="" alt="Mattar" title="Mattar" href="" coords="1085,812,21" shape="circle">
+    <area target="" alt="MacPherson" title="MacPherson" href="" coords="1089,759,1153,786" shape="rect">
+    <area target="" alt="Ubi" title="Ubi" href="" coords="1164,736,21" shape="circle">
+    <area target="" alt="Kaki Bukit" title="Kaki Bukit" href="" coords="1203,692,22" shape="circle">
+    <area target="" alt="Bedok North" title="Bedok North" href="" coords="1241,658,20" shape="circle">
+    <area target="" alt="Bedok Reservoir" title="Bedok Reservoir" href="" coords="1307,648,20" shape="circle">
+    <area target="" alt="Tampines West" title="Tampines West" href="" coords="1373,643,23" shape="circle">
+    <area target="" alt="Tampines East" title="Tampines East" href="" coords="1507,676,18" shape="circle">
+    <area target="" alt="Upper Changi" title="Upper Changi" href="" coords="1508,716,19" shape="circle">
+    <area target="" alt="Xilin" title="Xilin" href="" coords="1497,805,19" shape="circle">
+    <area target="" alt="HarbourFront" title="HarbourFront" href="" coords="640,1210,709,1243" shape="rect">
+    <area target="" alt="Telok Blangah" title="Telok Blangah" href="" coords="613,1183,20" shape="circle">
+    <area target="" alt="Labrador Park" title="Labrador Park" href="" coords="570,1146,19" shape="circle">
+    <area target="" alt="Pasir Panjang" title="Pasir Panjang" href="" coords="539,1103,20" shape="circle">
+    <area target="" alt="Haw Par Villa" title="Haw Par Villa" href="" coords="516,1062,22" shape="circle">
+    <area target="" alt="Kent Ridge" title="Kent Ridge" href="" coords="498,1016,21" shape="circle">
+    <area target="" alt="one-north" title="one-north" href="" coords="486,967,23" shape="circle">
+    <area target="" alt="Holland Village" title="Holland Village" href="" coords="492,846,21" shape="circle">
+    <area target="" alt="Farrer Road" title="Farrer Road" href="" coords="510,792,25" shape="circle">
+    <area target="" alt="Marymount" title="Marymount" href="" coords="709,601,25" shape="circle">
+    <area target="" alt="Lorong Chuan" title="Lorong Chuan" href="" coords="894,595,21" shape="circle">
+    <area target="" alt="Serangoon" title="Serangoon" href="" coords="938,609,1007,636" shape="rect">
+    <area target="" alt="Bartley" title="Bartley" href="" coords="1040,671,25" shape="circle">
+    <area target="" alt="Tai Seng" title="Tai Seng" href="" coords="1091,721,24" shape="circle">
+    <area target="" alt="Dakota" title="Dakota" href="" coords="1150,910,23" shape="circle">
+    <area target="" alt="Mountbatten" title="Mountbatten" href="" coords="1150,961,22" shape="circle">
+    <area target="" alt="Stadium" title="Stadium" href="" coords="1137,1018,20" shape="circle">
+    <area target="" alt="Nicoll Highway" title="Nicoll Highway" href="" coords="1119,1064,21" shape="circle">
+    <area target="" alt="Esplanade" title="Esplanade" href="" coords="983,1094,24" shape="circle">
+    <area target="" alt="Bras Basah" title="Bras Basah" href="" coords="912,1021,21" shape="circle">
+    <area target="" alt="Farrer Park" title="Farrer Park" href="" coords="849,817,22" shape="circle">
+    <area target="" alt="Boon Keng" title="Boon Keng" href="" coords="850,770,21" shape="circle">
+    <area target="" alt="Potong Pasir" title="Potong Pasir" href="" coords="878,717,25" shape="circle">
+    <area target="" alt="Woodleigh" title="Woodleigh" href="" coords="923,672,26" shape="circle">
+    <area target="" alt="Kovan" title="Kovan" href="" coords="1010,585,20" shape="circle">
+    <area target="" alt="Hougang" title="Hougang" href="" coords="1044,552,21" shape="circle">
+    <area target="" alt="Buangkok" title="Buangkok" href="" coords="1077,516,22" shape="circle">
+    <area target="" alt="Sengkang" title="Sengkang" href="" coords="1083,465,1147,493" shape="rect">
+    <area target="" alt="Punggol" title="Punggol" href="" coords="1223,416,1155,393" shape="rect">
+    <area target="" alt="Punggol Coast" title="Punggol Coast" href="" coords="1191,363,1243,386" shape="rect">
+    <area target="" alt="Clarke Quay" title="Clarke Quay" href="" coords="756,1007,806,1030" shape="rect">
+</map>
