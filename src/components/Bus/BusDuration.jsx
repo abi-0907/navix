@@ -19,7 +19,7 @@ export default function BusDuration() {
     }
 
     try {
-      const { data } = await axios.get(`${API_BASE}/api/bus-duration`, {
+      const { data } = await axios.get(`${process.env.REACT_APP_BACKEND_URL}${API_BASE}/api/bus-duration`, {
         params: { start, end },
       });
 

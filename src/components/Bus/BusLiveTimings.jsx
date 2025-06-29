@@ -9,7 +9,7 @@ export default function BusLiveTimings() {
 
   const fetchBusTimings = async (code) => {
     try {
-      const response = await axios.get(`/bus-arrival/${code}`);
+      const response = await axios.get(`${process.env.REACT_APP_BACKEND_URL}/bus-arrival/${code}`);
       return response.data;
     } catch (err) {
       throw err;

@@ -12,7 +12,7 @@ export default function BusFare() {
     e.preventDefault();
     try {
       setError(null);
-      const { data } = await axios.get('/api/bus-duration', {
+      const { data } = await axios.get('${process.env.REACT_APP_BACKEND_URL}/api/bus-duration', {
         params: { start, end, passengerType: type },
       });
       setResult(data);
