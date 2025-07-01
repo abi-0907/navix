@@ -7,11 +7,15 @@ export default function BusLiveTimings() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
+  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+  console.log('✅ DEBUG VITE_BACKEND_URL:', backendUrl);
+
   const fetchBusTimings = async (code) => {
     try {
-      const response = await axios.get(`${process.env.REACT_APP_BACKEND_URL}/bus-arrival/${code}`);
+      const response = await axios.get(`${backendUrl}/bus-arrival/${code}`);
       return response.data;
     } catch (err) {
+      console.error('❌ Error fetching bus timings:', err);
       throw err;
     }
   };
