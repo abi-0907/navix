@@ -7,7 +7,7 @@ export default function BusLiveTimings() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
-  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+  const backendUrl = import.meta.env.VITE_BACKEND_URL || '';
   console.log('✅ DEBUG VITE_BACKEND_URL:', backendUrl);
 
   const fetchBusTimings = async (code) => {
