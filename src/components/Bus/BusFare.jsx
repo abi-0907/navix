@@ -9,6 +9,7 @@ export default function BusFare() {
   const [error, setError] = useState(null);
 
   // ✅ Use REACT_APP_BACKEND_URL like the working LiveTimings.jsx
+  console.log('🔍 REACT_APP_BACKEND_URL:', backendUrl);
   const backendUrl = import.meta.env.REACT_APP_BACKEND_URL || '';
 
   const handleSubmit = async (e) => {
