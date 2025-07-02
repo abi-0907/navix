@@ -8,7 +8,8 @@ export default function BusFare() {
   const [result, setResult] = useState(null);
   const [error, setError] = useState(null);
 
-  const backendUrl = import.meta.env.VITE_BACKEND_URL || '';
+  // ✅ Use REACT_APP_BACKEND_URL like the working LiveTimings.jsx
+  const backendUrl = import.meta.env.REACT_APP_BACKEND_URL || '';
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -19,6 +20,7 @@ export default function BusFare() {
       });
       setResult(data);
     } catch (err) {
+      console.error('❌ API Error:', err);
       setError('Error retrieving fare data. Please check your stop codes.');
       setResult(null);
     }
@@ -89,7 +91,7 @@ export default function BusFare() {
             </div>
             <div className="flex justify-between">
               <span className="text-blue-400">Fare:</span>
-              <span className="font-semibold text-right">${result.fare}</span>
+              <span className="font-semibold text-right">{result.fare}</span>
             </div>
           </div>
         )}
