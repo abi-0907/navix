@@ -19,7 +19,7 @@ export default function BusDuration() {
     }
 
     try {
-      const { data } = await axios.get(`${process.env.REACT_APP_BACKEND_URL}${API_BASE}/api/bus-duration`, {
+      const { data } = await axios.get(`${API_BASE}/api/bus-duration`, {
         params: { start, end },
       });
 
@@ -33,7 +33,7 @@ export default function BusDuration() {
         setDuration(data.duration_min);
       }
     } catch (err) {
-      console.error(err);
+      console.error('❌ API Error:', err.response?.data || err.message);
       setError('Failed to fetch travel duration. Please try again.');
     }
   };
@@ -43,7 +43,6 @@ export default function BusDuration() {
       <div className="w-full max-w-xl bg-zinc-900 rounded-xl shadow-lg p-8 space-y-6">
         <h2 className="text-3xl font-semibold text-center">Bus Travel Duration</h2>
 
-        {/* inputs constrained to max-w-md inside a wider shell */}
         <div className="max-w-md w-full mx-auto space-y-4">
           <input
             type="text"
