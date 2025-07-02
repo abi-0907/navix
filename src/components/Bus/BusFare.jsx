@@ -8,11 +8,13 @@ export default function BusFare() {
   const [result, setResult] = useState(null);
   const [error, setError] = useState(null);
 
+  const backendUrl = import.meta.env.VITE_BACKEND_URL || '';
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
       setError(null);
-      const { data } = await axios.get('/api/bus-duration', {
+      const { data } = await axios.get(`${backendUrl}/api/bus-duration`, {
         params: { start, end, passengerType: type },
       });
       setResult(data);
