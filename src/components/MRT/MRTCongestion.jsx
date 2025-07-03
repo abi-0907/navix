@@ -18,7 +18,7 @@ export default function MRTCongestion() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    axios.get("`${process.env.REACT_APP_BACKEND_URL}/api/mrt-crowd")
+    axios.get(`${import.meta.env.VITE_BACKEND_URL}/api/mrt-crowd`)
       .then((res) => {
         setData(res.data.value || []);
         setLoading(false);
