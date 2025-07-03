@@ -14,7 +14,8 @@ export default function CarbonCalculator() {
     }
 
     try {
-      const { data } = await axios.get('${process.env.REACT_APP_BACKEND_URL}/api/emissions', {
+      const backendUrl = import.meta.env.VITE_BACKEND_URL || '';
+      const { data } = await axios.get(`${backendUrl}/api/emissions`, {
         params: { start, end },
       });
       setResult(data);
